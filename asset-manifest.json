@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Baabuu-10/Movie-App-React/static/css/main.1a7af8c6.css",
+    "main.js": "/Baabuu-10/Movie-App-React/static/js/main.6cb7757a.js",
+    "static/media/logo.png": "/Baabuu-10/Movie-App-React/static/media/logo.41b66e7906d3cbdcf89f.png",
+    "index.html": "/Baabuu-10/Movie-App-React/index.html",
+    "main.1a7af8c6.css.map": "/Baabuu-10/Movie-App-React/static/css/main.1a7af8c6.css.map",
+    "main.6cb7757a.js.map": "/Baabuu-10/Movie-App-React/static/js/main.6cb7757a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a7af8c6.css",
+    "static/js/main.6cb7757a.js"
+  ]
+}
